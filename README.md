@@ -13,7 +13,7 @@ Proyecto en Arduino
 
 ------------
 
-imagen de la parte 2
+[![Captura-de-pantalla-2023-10-22-205500.png](https://i.postimg.cc/59RkF5pz/Captura-de-pantalla-2023-10-22-205500.png)](https://postimg.cc/qg2GP3PB)
 
 ####  Descripcion
 
