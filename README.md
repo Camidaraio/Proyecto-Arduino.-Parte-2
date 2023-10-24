@@ -8,7 +8,7 @@
 ------------
 
 - Daraio Camila.
-- Dominguez Franco.
+
 
  
 #### Proyecto contador Binario.
